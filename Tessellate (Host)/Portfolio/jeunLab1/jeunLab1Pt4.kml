@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Placemark>
+ <name>Waldorf Astoria Las Vegas</name>
+ <description>Greatest Place on Earth</description>
+ <Point>
+ <coordinates>-115.174136, 36.106208,0</coordinates>
+ </Point>
+</Placemark>
+</kml>

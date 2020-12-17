@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98207172594812,
+          38.8359112249962,
+          0
+        ]
+      },
+      "properties": {
+        "name": "GREATER SOUTHEAST HOSPITAL",
+        "styleUrl": "#IconStyle00",
+        "styleHash": "67ace380",
+        "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\n\r\n<head>\r\n\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\n\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\n\r\n</head>\r\n\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\n\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\n\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\n\r\n<td>GREATER SOUTHEAST HOSPITAL</td>\r\n\r\n</tr>\r\n\r\n<tr>\r\n\r\n<td>\r\n\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\n\r\n<tr>\r\n\r\n<td>FID</td>\r\n\r\n<td>0</td>\r\n\r\n</tr>\r\n\r\n<tr bgcolor=\"#D4E4F3\">\r\n\r\n<td>NAME</td>\r\n\r\n<td>GREATER SOUTHEAST HOSPITAL</td>\r\n\r\n</tr>\r\n\r\n<tr>\r\n\r\n<td>FCC</td>\r\n\r\n<td>D31</td>\r\n\r\n</tr>\r\n\r\n</table>\r\n\r\n</td>\r\n\r\n</tr>\r\n\r\n</table>\r\n\r\n</body>\r\n\r\n</html>\r\n\r\n",
+        "fill": "#000000",
+        "fill-opacity": 1,
+        "stroke-opacity": 0
+      },
+      "id": "ID_00000"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99227372928092,
+          38.72846724710566,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FT WASHINGTON MEDICAL CENTER",
+        "styleUrl": "#IconStyle00",
+        "styleHash": "67ace380",
+        "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\n\r\n<head>\r\n\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\n\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\n\r\n</head>\r\n\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\n\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\n\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\n\r\n<td>FT WASHINGTON MEDICAL CENTER</td>\r\n\r\n</tr>\r\n\r\n<tr>\r\n\r\n<td>\r\n\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\n\r\n<tr>\r\n\r\n<td>FID</td>\r\n\r\n<td>1</td>\r\n\r\n</tr>\r\n\r\n<tr bgcolor=\"#D4E4F3\">\r\n\r\n<td>NAME</td>\r\n\r\n<td>FT WASHINGTON MEDICAL CENTER</td>\r\n\r\n</tr>\r\n\r\n<tr>\r\n\r\n<td>FCC</td>\r\n\r\n<td>D31</td>\r\n\r\n</tr>\r\n\r\n</table>\r\n\r\n</td>\r\n\r\n</tr>\r\n\r\n</table>\r\n\r\n</body>\r\n\r\n</html>\r\n\r\n",
+        "fill": "#000000",
+        "fill-opacity": 1,
+        "stroke-opacity": 0
+      },
+      "id": "ID_00001"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87458076458641,
+          38.75038823831259,
+          0
+        ]
+      },
+      "properties": {
+        "name": "SOUTHERN MARYLAND HOSP",
+        "styleUrl": "#IconStyle00",
+        "styleHash": "67ace380",
+        "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\n\r\n<head>\r\n\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\n\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\n\r\n</head>\r\n\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\n\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\n\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\n\r\n<td>SOUTHERN MARYLAND HOSP</td>\r\n\r\n</tr>\r\n\r\n<tr>\r\n\r\n<td>\r\n\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\n\r\n<tr>\r\n\r\n<td>FID</td>\r\n\r\n<td>2</td>\r\n\r\n</tr>\r\n\r\n<tr bgcolor=\"#D4E4F3\">\r\n\r\n<td>NAME</td>\r\n\r\n<td>SOUTHERN MARYLAND HOSP</td>\r\n\r\n</tr>\r\n\r\n<tr>\r\n\r\n<td>FCC</td>\r\n\r\n<td>D31</td>\r\n\r\n</tr>\r\n\r\n</table>\r\n\r\n</td>\r\n\r\n</tr>\r\n\r\n</table>\r\n\r\n</body>\r\n\r\n</html>\r\n\r\n",
+        "fill": "#000000",
+        "fill-opacity": 1,
+        "stroke-opacity": 0
+      },
+      "id": "ID_00002"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92531873798917,
+          38.92851320419757,
+          0
+        ]
+      },
+      "properties": {
+        "name": "PRINCE GEORGES HOSPITL CENTER",
+        "styleUrl": "#IconStyle00",
+        "styleHash": "67ace380",
+        "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\n\r\n<head>\r\n\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\n\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\n\r\n</head>\r\n\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\n\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\n\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\n\r\n<td>PRINCE GEORGES HOSPITL CENTER</td>\r\n\r\n</tr>\r\n\r\n<tr>\r\n\r\n<td>\r\n\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\n\r\n<tr>\r\n\r\n<td>FID</td>\r\n\r\n<td>3</td>\r\n\r\n</tr>\r\n\r\n<tr bgcolor=\"#D4E4F3\">\r\n\r\n<td>NAME</td>\r\n\r\n<td>PRINCE GEORGES HOSPITL CENTER</td>\r\n\r\n</tr>\r\n\r\n<tr>\r\n\r\n<td>FCC</td>\r\n\r\n<td>D31</td>\r\n\r\n</tr>\r\n\r\n</table>\r\n\r\n</td>\r\n\r\n</tr>\r\n\r\n</table>\r\n\r\n</body>\r\n\r\n</html>\r\n\r\n",
+        "fill": "#000000",
+        "fill-opacity": 1,
+        "stroke-opacity": 0
+      },
+      "id": "ID_00003"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94132973088504,
+          38.96315019781306,
+          0
+        ]
+      },
+      "properties": {
+        "name": "EUGENE LELAND MEM HOSP",
+        "styleUrl": "#IconStyle00",
+        "styleHash": "67ace380",
+        "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\n\r\n<head>\r\n\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\n\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\n\r\n</head>\r\n\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\n\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\n\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\n\r\n<td>EUGENE LELAND MEM HOSP</td>\r\n\r\n</tr>\r\n\r\n<tr>\r\n\r\n<td>\r\n\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\n\r\n<tr>\r\n\r\n<td>FID</td>\r\n\r\n<td>4</td>\r\n\r\n</tr>\r\n\r\n<tr bgcolor=\"#D4E4F3\">\r\n\r\n<td>NAME</td>\r\n\r\n<td>EUGENE LELAND MEM HOSP</td>\r\n\r\n</tr>\r\n\r\n<tr>\r\n\r\n<td>FCC</td>\r\n\r\n<td>D31</td>\r\n\r\n</tr>\r\n\r\n</table>\r\n\r\n</td>\r\n\r\n</tr>\r\n\r\n</table>\r\n\r\n</body>\r\n\r\n</html>\r\n\r\n",
+        "fill": "#000000",
+        "fill-opacity": 1,
+        "stroke-opacity": 0
+      },
+      "id": "ID_00004"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86671475311128,
+          38.98008019162533,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DOCTOR'S COMMUNITY HOSPITAL",
+        "styleUrl": "#IconStyle00",
+        "styleHash": "67ace380",
+        "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\n\r\n<head>\r\n\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\n\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\n\r\n</head>\r\n\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\n\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\n\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\n\r\n<td>DOCTOR'S COMMUNITY HOSPITAL</td>\r\n\r\n</tr>\r\n\r\n<tr>\r\n\r\n<td>\r\n\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\n\r\n<tr>\r\n\r\n<td>FID</td>\r\n\r\n<td>5</td>\r\n\r\n</tr>\r\n\r\n<tr bgcolor=\"#D4E4F3\">\r\n\r\n<td>NAME</td>\r\n\r\n<td>DOCTOR'S COMMUNITY HOSPITAL</td>\r\n\r\n</tr>\r\n\r\n<tr>\r\n\r\n<td>FCC</td>\r\n\r\n<td>D31</td>\r\n\r\n</tr>\r\n\r\n</table>\r\n\r\n</td>\r\n\r\n</tr>\r\n\r\n</table>\r\n\r\n</body>\r\n\r\n</html>\r\n\r\n",
+        "fill": "#000000",
+        "fill-opacity": 1,
+        "stroke-opacity": 0
+      },
+      "id": "ID_00005"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88320974166314,
+          39.08301017153106,
+          0
+        ]
+      },
+      "properties": {
+        "name": "GREATER LAUREL BELTSVILLE HOSP",
+        "styleUrl": "#IconStyle00",
+        "styleHash": "67ace380",
+        "description": "<html xmlns:fo=\"http://www.w3.org/1999/XSL/Format\" xmlns:msxsl=\"urn:schemas-microsoft-com:xslt\">\r\n\r\n<head>\r\n\r\n<META http-equiv=\"Content-Type\" content=\"text/html\">\r\n\r\n<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\n\r\n</head>\r\n\r\n<body style=\"margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;\">\r\n\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px\">\r\n\r\n<tr style=\"text-align:center;font-weight:bold;background:#9CBCE2\">\r\n\r\n<td>GREATER LAUREL BELTSVILLE HOSP</td>\r\n\r\n</tr>\r\n\r\n<tr>\r\n\r\n<td>\r\n\r\n<table style=\"font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px\">\r\n\r\n<tr>\r\n\r\n<td>FID</td>\r\n\r\n<td>6</td>\r\n\r\n</tr>\r\n\r\n<tr bgcolor=\"#D4E4F3\">\r\n\r\n<td>NAME</td>\r\n\r\n<td>GREATER LAUREL BELTSVILLE HOSP</td>\r\n\r\n</tr>\r\n\r\n<tr>\r\n\r\n<td>FCC</td>\r\n\r\n<td>D31</td>\r\n\r\n</tr>\r\n\r\n</table>\r\n\r\n</td>\r\n\r\n</tr>\r\n\r\n</table>\r\n\r\n</body>\r\n\r\n</html>\r\n\r\n",
+        "fill": "#000000",
+        "fill-opacity": 1,
+        "stroke-opacity": 0
+      },
+      "id": "ID_00006"
+    }
+  ]
+}

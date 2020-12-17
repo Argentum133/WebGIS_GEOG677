@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0365298,
+          38.8976763,
+          18.06853177873454
+        ]
+      },
+      "properties": {
+        "name": "White House",
+        "styleUrl": "#__managed_style_00879F576017A3FF276A",
+        "styleMapHash": {
+          "normal": "#__managed_style_1221D5522917A3FF276A",
+          "highlight": "#__managed_style_20064DA41C17A3FF276A"
+        },
+        "description": "<div>I once got harassed by the Secrete Service near the White House. I was more mad that they treated me like tourist and didn't give me the respect I deserved as a local.<br></div><div><br></div><div>-Jaemin Eun</div><div><br></div>"
+      },
+      "id": "057D8168A317A354C00D"
+    }
+  ]
+}

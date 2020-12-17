@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0485992,
+          38.8997145,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The George Washington University",
+        "styleUrl": "#__managed_style_00C82F8DC517A3578F5F",
+        "styleMapHash": {
+          "normal": "#__managed_style_1C7809C84F17A3578F5F",
+          "highlight": "#__managed_style_0BFC41B92017A3578F60"
+        }
+      },
+      "id": "04E7CACD5317A3578F5A"
+    }
+  ]
+}
